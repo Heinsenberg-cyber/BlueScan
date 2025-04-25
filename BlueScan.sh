@@ -1,10 +1,4 @@
 #!/bin/bash
-# student name: alex pashin 
-# lecturer name : eliran berkovich the goat <3
-# class code : HMagen773629
-# student code : s2
-# i've have been using chat Gpt to complete the task 
-
 
 # Load colors
 NC='\033[0m'
