@@ -24,7 +24,7 @@ It is designed to streamline recon, brute-forcing, vulnerability discovery, and 
 - ✅ Intelligent input validation & stage logging
 [![Watch BlueScan in Action](https://img.youtube.com/vi/628iM-Zc8QY/0.jpg)](https://youtu.be/628iM-Zc8QY)
 ---
-![opening Banner](Screenshot 2025-04-25 100050.png)
+
 
 
 ## 🚀 Quick Start
