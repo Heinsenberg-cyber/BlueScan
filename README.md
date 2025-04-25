@@ -22,7 +22,7 @@ It is designed to streamline recon, brute-forcing, vulnerability discovery, and 
 - 📦 Export everything into a ZIP archive with all results
 - 🔍 Built-in result search with `fzf`
 - ✅ Intelligent input validation & stage logging
-
+[![Watch BlueScan in Action](https://img.youtube.com/vi/628iM-Zc8QY/0.jpg)](https://youtu.be/628iM-Zc8QY)
 ---
 
 ## 🚀 Quick Start
