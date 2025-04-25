@@ -22,6 +22,7 @@ It is designed to streamline recon, brute-forcing, vulnerability discovery, and 
 - 📦 Export everything into a ZIP archive with all results
 - 🔍 Built-in result search with `fzf`
 - ✅ Intelligent input validation & stage logging
+- ## 🎥 Demo Video
 [![Watch BlueScan in Action](https://img.youtube.com/vi/628iM-Zc8QY/0.jpg)](https://youtu.be/628iM-Zc8QY)
 ---
 
@@ -34,3 +35,15 @@ git clone https://github.com/Heinsenberg-cyber/BlueScan.git
 cd BlueScan
 chmod +x bluescan.sh
 ./bluescan.sh
+## 📸 Screenshots
+
+### 🧠 Opening Banner
+![Opening Banner](assets/Opening%20banner.png)
+
+### 🧭 Main Menu
+![Main Menu](assets/main%20menu.png)
+
+### 💣 Metasploit Sub-Menu
+![Metasploit Menu](assets/sub_meta-menu.png)
+
+-
